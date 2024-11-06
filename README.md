@@ -1,2 +1,2 @@
 # Basic-Python-Projects
-Just a few beginner level projects.
+Just a few simple, beginner level projects.
